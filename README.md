@@ -11,7 +11,7 @@ Features：
 - Pause and resume functionality
 - High-score ranking system
 - Sound effects
-- Technologies
+# Technologies
 - Java
 - Java Swing
 - OOP
