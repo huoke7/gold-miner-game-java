@@ -11,6 +11,13 @@ Features：
 - Pause and resume functionality
 - High-score ranking system
 - Sound effects
+# Concepts Demonstrated
+- Abstraction
+- Inheritance
+- Polymorphism
+- Collision Detection
+- File I/O
+- Bubble Sort
 # Technologies
 - Java
 - Java Swing
